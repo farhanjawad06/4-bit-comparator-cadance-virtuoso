@@ -1,0 +1,14 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NOR_4_1 layout mylib':
+  info: Assign pin label "gnd" at (1.0300, 0.6900) to layer `Metal1_p'.
+  info: Assign pin label "din" at (0.7100, 1.4800) to layer `Metal1_p'.
+  info: Assign pin label "cin" at (0.6900, 1.7600) to layer `Metal1_p'.
+  info: Assign pin label "bin" at (0.6800, 2.0700) to layer `Metal1_p'.
+  info: Assign pin label "ain" at (0.6800, 2.3800) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (1.0300, 3.7400) to layer `Metal1_p'.
+  info: Assign pin label "out" at (3.7500, 2.5000) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

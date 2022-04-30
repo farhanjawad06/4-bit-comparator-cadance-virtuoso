@@ -1,0 +1,6 @@
+Schematic                  | Layout                  | Status
+-------------------------------------------------------------------------------
+NOR_4_1 schematic mylib    | NOR_4_1 layout mylib    | matched, pin errs     *
+
+Mismatch between Schematic and Layout
+   1 cell matched with pin errors

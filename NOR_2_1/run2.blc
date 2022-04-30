@@ -1,0 +1,5 @@
+"pmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"NOR_4_1 layout mylib" "NOR_4_1 schematic mylib" "nmos1v(MOS)" "pmos1v(MOS)"
+Devices filtered from layout
+"TIE"
